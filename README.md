@@ -67,9 +67,7 @@ I'm a **WordPress Developer + Problem Solver** at **Black Cap IT**, and a freela
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=codeharshly&show_icons=true&bg_color=07080f&border_color=00ffcc&icon_color=00ffcc&title_color=00ffcc&text_color=f0f0f0&count_private=true" />
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=codeharshly&layout=compact&bg_color=07080f&border_color=00ffcc&title_color=00ffcc&text_color=f0f0f0" />
+<img height="150" src="https://gh-stats-pi.vercel.app/api?username=codeharshly&show_icons=true&bg_color=07080f&border_color=00ffcc&icon_color=00ffcc&title_color=00ffcc&text_color=f0f0f0" />
 
 <br/><br/>
 

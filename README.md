@@ -42,11 +42,9 @@ I'm a **WordPress Developer + Problem Solver** at **Black Cap IT**, and a freela
 
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=flat-square&logo=greensock&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
 
 ---
 

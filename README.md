@@ -82,7 +82,7 @@ I'm open to **freelance projects** and **collaborations** — especially web app
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-%2300ffcc?style=for-the-badge&labelColor=07080f)](https://codeharshly.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-Let's%20Talk-%2300bfff?style=for-the-badge&labelColor=07080f)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-%2300bfff?style=for-the-badge&labelColor=07080f)](mailto:harshdeepsinghchoudhary@email.com)
 
 </div>
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Harshdeep+Singh+%F0%9F%91%8B;WordPress+%2B+Full+Stack+Developer;Building+things+that+work." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Harshdeep+Singh;WordPress+%2B+Full+Stack+Dev;Building+things+that+work." alt="Typing SVG" />
 
 <br/>
 
@@ -67,9 +67,13 @@ I'm a **WordPress Developer + Problem Solver** at **Black Cap IT**, and a freela
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=CodeHarshly&show_icons=true&theme=dark&bg_color=07080f&border_color=00ffcc&icon_color=00ffcc&title_color=00ffcc&text_color=f0f0f0&hide_border=false" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=codeharshly&show_icons=true&theme=dark&bg_color=07080f&border_color=00ffcc&icon_color=00ffcc&title_color=00ffcc&text_color=f0f0f0&count_private=true&cache_seconds=1800" />
+&nbsp;&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeharshly&layout=compact&theme=dark&bg_color=07080f&border_color=00ffcc&title_color=00ffcc&text_color=f0f0f0&cache_seconds=1800" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeHarshly&layout=compact&theme=dark&bg_color=07080f&border_color=00ffcc&title_color=00ffcc&text_color=f0f0f0" />
+<br/><br/>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=codeharshly&theme=dark&background=07080f&border=00ffcc&stroke=00ffcc&ring=00ffcc&fire=00bfff&currStreakLabel=00ffcc&sideLabels=f0f0f0&dates=555a7a" />
 
 </div>
 

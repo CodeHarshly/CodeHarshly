@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Harshdeep+Singh;WordPress+Dev;Full+Stack+Dev;Building+things+that+work." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Harshdeep+Singh;A+WordPress+Dev;A+Full+Stack+Dev;Building+things+that+work." alt="Typing SVG" />
 
 <br/>
 

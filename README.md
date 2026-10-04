@@ -52,6 +52,7 @@ I'm a **WordPress Developer + Problem Solver** at **Black Cap IT**, and a freela
 
 | Project | Type | Stack | Link |
 |---------|------|-------|------|
+| **PickScrap App** | Full-Stack Application | React Native + Supabase | [pick-scrap.vercel.app](https://pick-scrap.vercel.app/) |
 | **Osaka Group** | Client Website | WordPress + Custom Code | [osakagroup.in](https://osakagroup.in) |
 | **Chisur Academy** | Client Website | WordPress + Custom Code | [chisuracademy.com](https://chisuracademy.com) |
 | **Web Bingo** | Personal | HTML · CSS · JS | [Live](https://codeharshly.github.io/Bingo/) · [Code](https://github.com/CodeHarshly/Bingo) |
